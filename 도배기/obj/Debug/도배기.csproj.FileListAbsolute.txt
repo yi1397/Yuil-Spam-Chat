@@ -1,0 +1,9 @@
+D:\도배기\도배기\bin\Debug\도배기.exe.config
+D:\도배기\도배기\bin\Debug\도배기.exe
+D:\도배기\도배기\bin\Debug\도배기.pdb
+D:\도배기\도배기\obj\Debug\도배기.csprojAssemblyReference.cache
+D:\도배기\도배기\obj\Debug\도배기.Form1.resources
+D:\도배기\도배기\obj\Debug\도배기.Properties.Resources.resources
+D:\도배기\도배기\obj\Debug\도배기.csproj.GenerateResource.cache
+D:\도배기\도배기\obj\Debug\도배기.exe
+D:\도배기\도배기\obj\Debug\도배기.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "도배기", "도배기\도배기.csproj", "{D5CC25EF-2D15-49AF-B1DA-82E00E452E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5CC25EF-2D15-49AF-B1DA-82E00E452E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CC25EF-2D15-49AF-B1DA-82E00E452E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CC25EF-2D15-49AF-B1DA-82E00E452E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CC25EF-2D15-49AF-B1DA-82E00E452E64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA1E2AFC-EE40-49E2-B294-09CF7CA6C9AE}
+	EndGlobalSection
+EndGlobal
